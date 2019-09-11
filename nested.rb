@@ -57,7 +57,7 @@ def dennis_ritchies_language
         }
      }
      
-dennis_ritchie][1]
+dennis_ritchie[1]
 
 end
 
